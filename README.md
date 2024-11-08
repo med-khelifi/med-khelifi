@@ -29,7 +29,7 @@ Check out my projects [here](https://github.com/med-khelifi/C-WinformsProjects.g
 
 ## 📫 Connect With Me
 - **GitHub**: [github.com/med-khelifi](https://github.com/med-khelifi)
-- **LinkedIn**: [linkedin.com/in/med-khelifi](#) *(Add your LinkedIn link if available)*
+- **LinkedIn**: [linkedin.com/in/med-khelifi](#) --*(Add your LinkedIn link if available)*
 
 ---
 
