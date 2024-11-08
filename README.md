@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate and motivated developer from Tuni
 ## 🚀 About Me
 - **Name**: Mohamed Khelifi
 - **Location**: Tunisia
-- **Learning Path**: Currently enhancing my skills through *Programming Advices* and hands-on project development.
+- **Learning Path**: Currently enhancing my skills through [Programming Advices](https://programmingadvices.com/) and hands-on project development.
 
 ## 🧰 Skills & Technologies
 - **Programming Languages**: C#
