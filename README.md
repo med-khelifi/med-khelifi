@@ -28,8 +28,8 @@ Check out my projects [here](https://github.com/med-khelifi/C-WinformsProjects.g
 - Build more complex applications and contribute to open source projects
 
 ## 📫 Connect With Me
-- **GitHub**: [github.com/med-khelifi](https://github.com/med-khelifi)
 - **LinkedIn**: [linkedin.com/in/med-khelifi](#)
+- **Email**: [khelifim440@gmail.com](#)
 
 ---
 
