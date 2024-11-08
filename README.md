@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**med-khelifi/med-khelifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 👋 Hi, I'm Mohamed Khelifi
+# 👋 Hi, I'm Mohamed Khelifi
 
 Welcome to my GitHub profile! I'm a passionate and motivated developer from Tunisia, currently diving into the world of programming. My journey is just beginning, and I'm excited to learn, build, and share my projects with you.
 
@@ -42,11 +34,3 @@ Check out my projects [here](https://github.com/med-khelifi/C-WinformsProjects.g
 ---
 
 Thanks for stopping by, and feel free to reach out or follow along with my programming journey!
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
