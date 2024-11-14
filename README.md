@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg">
- **Hi, I'm Mohamed Khelifi**
+ ## 😁 Hi, I'm Mohamed Khelifi
 
 - Welcome to my GitHub profile! I'm a passionate and motivated developer from Tunisia, currently diving into the world of programming. My journey is just beginning, and I'm excited to learn, build, and share my projects with you.
 
