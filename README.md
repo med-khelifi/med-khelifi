@@ -15,13 +15,6 @@
 - **Database**: SQL Server
 - **Development**: Windows Forms (WinForms), Object-Oriented Programming (OOP), 3-Tier Architecture
 
-## 📝 Projects
-I have developed a variety of C# WinForms applications, including:
-- **Games**: Flappy Bird, Shooting Game, Car Game, Mole Game, Who Wants to Be a Millionaire
-- **Utilities**: Password Generator, Timer App, Calculator
-- **Management Systems**: Bank Management System, Driving License Management System
-
-Check out my projects [here](https://github.com/med-khelifi/C-WinformsProjects.git)!
 
 ## 🎯 Goals
 - Master mobile development
