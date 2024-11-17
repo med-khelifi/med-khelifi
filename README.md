@@ -21,7 +21,7 @@
 - Build more complex applications and contribute to open source projects
 
 ## 📫 Connect With Me
-- **LinkedIn**: [linkedin.com/in/med-khelifi](#)
+- **LinkedIn**: [[linkedin.com/in/med-khelifi](https://www.linkedin.com/in/khelifi-mohamed-1269b2287)](#)
 - **Email**: [khelifim440@gmail.com](#)
 
 ---
